@@ -1,0 +1,39 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	{
+		//nations
+		"name": "Ark Civilization",
+		"leaderName": "Helena Walker",
+		"adjective": ["Survivor"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "...now comes a crucial moment, to take this civilization to the stars",
+
+		"declaringWar": "This is the end!",
+		"attacked": "Oh, so you are attacking us.",
+		"defeated": "You can continue your reign? im sure you won´t.",
+		"introduction": "Greetings",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Dinosaur World",
+                "uniques": ["Heals [30] damage if it kills a unit", "[+1 Science] from every [Luxury resource]"],
+
+		"outerColor": [154, 245, 178],
+		"innerColor": [47, 56, 120],
+		"cities": ["World Federation","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+]
