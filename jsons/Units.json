@@ -39,6 +39,7 @@
 	},
         {
 		"name": "Ptera Rider",
+                "uniqueTo": "Ark Civilization",
 		"unitType": "Fighter",
 		"movement": 1,
 		"strength": 45,
